@@ -5,9 +5,9 @@
 ### Hi there 👋
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/jishnulal7">
+<a href="https://github.com/Ajay-Anand-M">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnulal7&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Anand-M&theme=noctis_minimus&layout=compact" />
 </a>
 
 

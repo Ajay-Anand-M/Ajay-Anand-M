@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Ajay-Anand-M/Ajay-Anand-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/Ajay-Anand-M">
 
